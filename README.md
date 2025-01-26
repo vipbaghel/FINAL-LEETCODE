@@ -7,11 +7,11 @@
 ![Screenshot of App](https://i.ibb.co/b3XDkdN/Full-Stack-1.png)
 # leetcode-yt
 
-# Foobar
+##  Foobar
 
 A full-featured LeetCode clone built using Next.js, Firebase, Recoil, and TypeScript, providing an interactive coding environment with authentication, problem-solving, and code submission functionalities.
 
-Table of Contents
+##  Table of Contents
 Overview
 Features
 Tech Stack
@@ -25,20 +25,21 @@ License
 Contact
 
 
-Overview
+##  Overview
 The LeetCode Clone is a web-based coding platform that allows users to solve coding problems in an interactive editor, track progress, and manage authentication with Firebase.
 
 Features
-🔐 Authentication (Signup/Login/Reset Password)
-🧩 Coding workspace with a rich text editor
-🗂 Problem listing with solutions and test cases
-❤️ Like, Dislike, and Star problems
-⏲ Timer for problem-solving tracking
-🎉 Confetti celebration for successful submissions
-💾 Save code to local storage
-🌓 Dark and Light mode
-🚀 Deployed using Vercel
-Tech Stack
+* 🔐 Authentication (Signup/Login/Reset Password)
+* 🧩 Coding workspace with a rich text editor
+* 🗂 Problem listing with solutions and test cases
+* ❤️ Like, Dislike, and Star problems
+* ⏲ Timer for problem-solving tracking
+* 🎉 Confetti celebration for successful submissions
+* 💾 Save code to local storage
+* 🌓 Dark and Light mode
+* 🚀 Deployed using Vercel
+  
+## Tech Stack
 Frontend: Next.js (React.js), TypeScript, TailwindCSS
 State Management: Recoil
 Database: Firebase Firestore
