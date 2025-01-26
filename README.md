@@ -52,27 +52,27 @@ Features
 1. Project Setup
   
 2. Authentication
- . Login UI
- . Signup UI
- . Reset Password UI
- . Integrating Recoil Auth State
- . Signup Functionality
- . Login Functionality
+   > Login UI
+ >  Signup UI
+ >  Reset Password UI
+ > Integrating Recoil Auth State
+ > Signup Functionality
+ > Login Functionality
  
 3. Application UI
- . Home Page UI
- . Problems Table UI
- . YouTube Video Modal
+ > Home Page UI
+ > Problems Table UI
+ > YouTube Video Modal
    
 5. Problem Solving Interface
 
-. Creating Timer
-.  Workspace
-. Splitting the Page
- . ProblemDescription
- . Code Editor
- . Adding Test Cases 
- . Data Handling 
+> Creating Timer
+>  Workspace
+> Splitting the Page
+> ProblemDescription
+> Code Editor
+> Adding Test Cases 
+> Data Handling 
  
 6. initial Problems
  * Two Sum Problem
@@ -88,18 +88,15 @@ Features
  * Fetch Problems
 
 8. Additional Features
- Loading Skeletons
-
-Like functionality
- Dislike functionality
- Star functionality
- Next and Previous problem
- Solving Hydration Error
- Confetti Celebration
+ % Loading Skeletons
+ % Like functionality
+ % Dislike functionality
+ % Star functionality
+ % Confetti Celebration
  
 9. Final Touches & Deployment
 
- Deployment on vercel
+ @  Deployment on vercel
 
 # Clone the repository:
 
