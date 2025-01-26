@@ -126,22 +126,20 @@ npm install -g vercel
 Deploy:
 
 ```bash
-Copy
-Edit
 vercel --prod
-```
+
 Screenshots
 
 Contributing
 Contributions are welcome!
 
 ```Fork the project
-Create a feature branch (git checkout -b feature-name)```
+Create a feature branch (git checkout -b feature-name)
 ```
-Commit your changes (git commit -m "Add feature")```
+Commit your changes (git commit -m "Add feature")
 ```
 Push to the branch (git push origin feature-name)
-```
+
 
  ## License
 This project is licensed under the MIT License.
