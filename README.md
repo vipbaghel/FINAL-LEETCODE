@@ -52,7 +52,7 @@ Features
 1. Project Setup
   
 2. Authentication
-   > Login UI
+ > Login UI
  >  Signup UI
  >  Reset Password UI
  > Integrating Recoil Auth State
@@ -65,7 +65,6 @@ Features
  > YouTube Video Modal
    
 5. Problem Solving Interface
-
 > Creating Timer
 >  Workspace
 > Splitting the Page
@@ -87,14 +86,8 @@ Features
  * Adding Problems to DB
  * Fetch Problems
 
-8. Additional Features
- % Loading Skeletons
- % Like functionality
- % Dislike functionality
- % Star functionality
- % Confetti Celebration
- 
-9. Final Touches & Deployment
+
+8. Final Touches & Deployment
 
  @  Deployment on vercel
 
