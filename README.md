@@ -5,24 +5,20 @@
 # [Demo](https://youtu.be/igqiduZR-Gg)
 
 ![Screenshot of App](https://i.ibb.co/b3XDkdN/Full-Stack-1.png)
-# leetcode-yt
-
-##  Foobar
-
+# leetcode 
 A full-featured LeetCode clone built using Next.js, Firebase, Recoil, and TypeScript, providing an interactive coding environment with authentication, problem-solving, and code submission functionalities.
 
 ##  Table of Contents
-Overview
-Features
-Tech Stack
-Project Timeline
-Installation
-Usage
-Deployment
-Screenshots
-Contributing
-License
-Contact
+* Overview
+* Features
+* Tech Stack
+* Project Timeline
+* Installation
+* Usage
+* Deployment
+* Screenshots
+* License
+* Contact
 
 
 ##  Overview
@@ -119,26 +115,38 @@ This project can be deployed easily on Vercel.
 
 Install Vercel CLI:
 
-bash
-Copy
-Edit
-npm install -g vercel
-Deploy:
+
+## Run Locally
+
+Clone the project
 
 ```bash
-vercel --prod
+  git clone https://leetcode-clone.git
+```
 
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 Screenshots
 
 Contributing
 Contributions are welcome!
 
-```Fork the project
-Create a feature branch (git checkout -b feature-name)
-```
-Commit your changes (git commit -m "Add feature")
-```
-Push to the branch (git push origin feature-name)
+
 
 
  ## License
