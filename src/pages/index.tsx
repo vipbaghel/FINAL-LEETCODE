@@ -18,7 +18,14 @@ export default function Home() {
 					className='text-2xl text-center text-gray-700 dark:text-gray-400 font-medium
 					uppercase mt-10 mb-5'
 				>
-					&ldquo; QUALITY OVER QUANTITY &rdquo; 👇
+					<h1
+  className="section_heading text-center mt-10 mb-5 drop-shadow-lg flex flex-col items-center gap-2"
+>
+  <span className="bg-gradient-to-r from-yellow-100 via-pink-200 to-blue-100 bg-clip-text text-transparent font-extrabold text-3xl md:text-4xl tracking-wide animate-gradient">
+    “ QUALITY OVER QUANTITY ”
+  </span>
+  <span className="text-3xl animate-bounce">👇</span>
+</h1>
 				</h1>
 				<div className='relative overflow-x-auto mx-auto px-6 pb-10'>
 					{loadingProblems && (
