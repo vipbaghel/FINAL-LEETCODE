@@ -12,6 +12,7 @@ A full-stack LeetCode clone built with Next.js, TypeScript, Tailwind CSS, and Fi
 - Progress tracking
 - Responsive design with Tailwind CSS
 - Problem management and mock data
+- vedio solution of each problem
 
 ## Folder Structure
 
